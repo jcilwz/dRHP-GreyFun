@@ -1,4 +1,5 @@
-Useage
+##
+## Useage
 =======================================
 >[family, prob] = predictProteinRemoteHomology('query.fasta');
 
@@ -8,3 +9,4 @@ Useage
 			predicting remote homology family name
 		-prob:
 			predicting probability
+			
